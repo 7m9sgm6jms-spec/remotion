@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
@@ -61,4 +61,4 @@ Be aware of that Remotion has a special license and requires obtaining a company
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) to learn about contributing to this project.
-/end boot/:
+/end boot/:[end]
